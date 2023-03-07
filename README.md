@@ -1,6 +1,6 @@
 # Trabajo Práctico 1 ADP
 
-En este trabajo práctico practico ejercicios de lógica. 
+En este trabajo práctico <i><strike>entro en crisis existencial luchando con la lógica </strike></i> practico ejercicios de lógica. 
 
 
  
