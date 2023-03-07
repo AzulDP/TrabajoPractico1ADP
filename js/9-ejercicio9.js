@@ -4,8 +4,9 @@
 // 'a' ||'A'||'e'||'E'||'i'||'I'||'o'||'O'||'u'||'U'
 
 const sentence = prompt('Escribe una frase')
+// const vowels = ['a','A','e','E','i','I','o','O','u','U']
 
-for (let vowels = 0; vowels <=sentence.length; vocal++) {
+for (let vowels = 0; vowels <=sentence.length; vowels++) {
     if (sentence.charAt(vowels) == 'a' || 'A'||
         sentence.charAt(vowels) == 'e' || 'E'||
         sentence.charAt(vowels) == 'i' ||'I'||
